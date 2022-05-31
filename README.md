@@ -11,7 +11,7 @@
   <li>#  Quiz Programming. </li>  
   <li>#  Tic-Tac-Toe Game. </li>  
   <li>#  Drawing Board. </li>  
-  <li>#  Drag and Drop Simulator </li>  
+  <li>#  Drag and Drop Simulator. </li>  
 </ol>
 
 <p> In each folder, there will be the project's source code for consultation and a description of the activity, as well as photos of its result and example of use </p>
